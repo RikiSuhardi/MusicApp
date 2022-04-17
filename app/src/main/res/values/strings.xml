@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fan Movie</string>
+    <string name="Movie_name">Movie Name</string>
+    <string name="description">Deskripsi</string>
+</resources>
